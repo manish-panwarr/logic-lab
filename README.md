@@ -1,6 +1,6 @@
 # Logic Lab
-
 A hands-on collection of mini-projects built to improve programming fundamentals, logical thinking, problem-solving abilities, and practical development skills.
+<img width="1269" height="1239" alt="Young Developer Coding at a Tech Desk" src="https://github.com/user-attachments/assets/050c302b-4d48-4920-a3f2-0e917add377e" />
 
 ## Purpose
 
